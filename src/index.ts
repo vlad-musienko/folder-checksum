@@ -1,3 +1,4 @@
 export const calcFolderHash = (path: string) => {
-    console.log('test');
+    // tslint:disable-next-line:no-console
+    console.log("test");
 };
