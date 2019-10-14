@@ -1,1 +1,1 @@
-Calculate hash by folder content 
+Typescript npm module template
